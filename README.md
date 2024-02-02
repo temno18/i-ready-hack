@@ -6,3 +6,5 @@ TO USE: create bookmark
 then edit the bookmark then right click the bookmark and click "edit" 
 next paste iready.js into url
 go to iready and click your new bookmark.
+
+CREDIT TO DARIAN AND DEVTECH they made this im just reposting.
